@@ -1,3 +1,2 @@
-source "https://rubygems.org"
-
-gem "github-pages", ">= 29"
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
